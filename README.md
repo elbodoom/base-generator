@@ -2,6 +2,6 @@
 
 ##Pre-requisites
 
-Python 3.7
-Module process
+- Python 3.7
+- Module process
 
